@@ -22,7 +22,6 @@ Criado com **HTML, CSS e JavaScript**, esse site conta com animações, tema din
 
 ---
 
-## 📸 Preview  
 🔗 **Acesse o site:** [Meu Portfólio](https://andreh-malheiros.github.io/Portifolio2025/)  
 
 <p align="center">
